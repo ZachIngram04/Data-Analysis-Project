@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+Include/
+lib/
+Scripts/
+pyenv.cfg
