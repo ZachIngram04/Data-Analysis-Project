@@ -1,2 +1,5 @@
+HEAD
 this is a test file.
 This is a change for branch merging test. 
+this is a test of the test file.
+cf0390ecbd7269858b8e9a6b910dcbecc8323b79
