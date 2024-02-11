@@ -3,6 +3,7 @@ __pycache__/
 Include/
 lib/
 Scripts/
+data/
 pyvenv.cfg
 *.csv
 *.tsv
